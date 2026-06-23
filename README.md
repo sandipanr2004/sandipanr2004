@@ -56,18 +56,17 @@ Currently focused on Data Structures & Algorithms, System Design, Backend Engine
 - Created interactive dashboards and environmental impact visualizations.
 - Integrated full-stack architecture using React, Node.js and MongoDB.
 
-## GreenPulse
+## Swadeshi
 
-- Built an AI-powered sustainability awareness platform.
-- Integrated Gemini API chatbot for real-time user assistance.
-- Designed responsive UI using HTML, CSS and JavaScript.
+- Built a full-stack e-commerce platform promoting Indian-made products using React.js, Node.js and MongoDB.
+- Developed advanced product search, category filtering and user authentication modules to enhance user engagement.
+- Optimized database operations and responsive UI workflows, improving platform scalability and user experience.
 
-## Amazon Clone
+## SplitWise
 
-- Developed a full-stack e-commerce application.
-- Implemented authentication, cart management and product browsing.
-- Focused on responsive design and scalable architecture.
-
+- Developed a collaborative expense management application enabling real-time expense tracking and balance settlement.
+- Implemented expense splitting, transaction history and automated balance calculation using React.js and Node.js.
+- Designed RESTful APIs and efficient data models to ensure secure transactions and accurate financial tracking.
 ---
 
 # GitHub Analytics
