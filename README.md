@@ -117,7 +117,7 @@ Email: roysandipan960@gmail.com
 
 GitHub: https://github.com/sandipanr2004
 
-Postfolio: https://sandipanroy10.netlify.app
+Portfolio: https://sandipanroy10.netlify.app
 
 ---
 
